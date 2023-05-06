@@ -418,7 +418,7 @@
                                             <rect key="frame" x="0.0" y="0.0" width="344" height="43.666667938232422"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DpP-yM-ucZ">
+                                                <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nameeeeeeeeeeeeee" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DpP-yM-ucZ">
                                                     <rect key="frame" x="20" y="10" width="256" height="21"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -609,7 +609,7 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="kp2-0P-dYN"/>
-        <segue reference="S2w-K4-Zbs"/>
+        <segue reference="PPj-Qe-5km"/>
         <segue reference="Rjr-JZ-tft"/>
     </inferredMetricsTieBreakers>
     <resources>

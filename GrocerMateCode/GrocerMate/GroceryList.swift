@@ -73,8 +73,8 @@ var eggs = GroceryItem(itemName: "Eggs", unitPrice: 6.78, quantity: 1)
 var dairyAndEggs = [oatmilk, wholeMilk, almondMilk, cheddarCheese, goudaCheese, butter, eggs]
 
 
-var allItems = fruitsAndVeg + paperGoods
+var allItems = fruitsAndVeg + paperGoods + dairyAndEggs
 
-//TODO: Add other categories later
+
 
 var selectedItem = paperTowel
